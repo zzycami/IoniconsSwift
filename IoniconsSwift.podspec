@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary               = 'Ionicons for Swift and iOS'
   s.homepage              = 'https://github.com/tidwall/IoniconsSwift'
   s.license               = { :type => "Attribution License", :file => "LICENSE" }
-  s.source                = { :git => 'https://github.com/zzycami/IoniconsSwift', :tag => s.version  }
+  s.source                = { :git => 'https://github.com/zzycami/IoniconsSwift.git', :tag => s.version  }
   s.authors               = { 'Josh Baker' => 'joshbaker77@gmail.com' }
   s.social_media_url      = "https://twitter.com/tidwall"
   s.ios.platform          = :ios, '8.0'
